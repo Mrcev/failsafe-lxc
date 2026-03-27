@@ -14,4 +14,8 @@ Failsafe is a lightweight, scalable, and color-coded network monitoring tool des
 You can install Failsafe with a single command:
 
 ```bash
-wget -qO- [https://raw.githubusercontent.com/Mrcev/failsafe-lxc/main/install.sh](https://raw.githubusercontent.com/Mrceviker/failsafe-lxc/main/install.sh) | sudo bash
+wget -qO- https://raw.githubusercontent.com/Mrcev/failsafe-lxc/main/install.sh | sudo bash
+ ```
+```bash
+curl -sSL https://raw.githubusercontent.com/Mrcev/failsafe-lxc/main/install.sh | sudo bash
+ ```
