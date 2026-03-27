@@ -19,3 +19,10 @@ wget -qO- https://raw.githubusercontent.com/Mrcev/failsafe-lxc/main/install.sh |
 ```bash
 curl -sSL https://raw.githubusercontent.com/Mrcev/failsafe-lxc/main/install.sh | sudo bash
  ```
+## 🗑 Kaldırma (Uninstall)
+
+Sistemi tek komutla tamamen kaldırmak için:
+
+```bash
+wget -qO- [https://raw.githubusercontent.com/Mrceviker/failsafe-lxc/main/uninstall.sh](https://raw.githubusercontent.com/Mrceviker/failsafe-lxc/main/uninstall.sh) | sudo bash
+```
