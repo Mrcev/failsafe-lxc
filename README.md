@@ -24,5 +24,8 @@ curl -sSL https://raw.githubusercontent.com/Mrcev/failsafe-lxc/main/install.sh |
 Sistemi tek komutla tamamen kaldırmak için:
 
 ```bash
-wget -qO- [https://raw.githubusercontent.com/Mrceviker/failsafe-lxc/main/uninstall.sh](https://raw.githubusercontent.com/Mrceviker/failsafe-lxc/main/uninstall.sh) | sudo bash
+wget -qO- https://raw.githubusercontent.com/Mrcev/failsafe-lxc/main/uninstall.sh | sudo bash
 ```
+```bash
+curl -sSL https://raw.githubusercontent.com/Mrcev/failsafe-lxc/main/uninstall.sh | sudo bash
+ ```
